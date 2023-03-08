@@ -3,3 +3,8 @@
 
 ###### This is Kai'Sa, daughter of the void, my favourite champion
 ![Image of Kai'Sa](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg)
+
+```
+let best = "Kai'Sa is the best";
+console.log(best);
+```
