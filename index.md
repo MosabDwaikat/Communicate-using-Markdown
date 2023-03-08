@@ -8,3 +8,7 @@
 let best = "Kai'Sa is the best";
 console.log(best);
 ```
+- [x] Get to know Kai'Sa
+- [x] Learn about what Kai'Sa can do
+- [ ] Try Kai'Sa as an ADC
+- [ ] Try Kai'Sa in Mid-lane
