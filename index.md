@@ -1,4 +1,5 @@
 # You are reading me!! Lucky you;
+#### I hope you like what you see;
 
-#### Still reading? you must like what you see;
-#### I hope you enjoy;
+###### This is Kai'Sa, daughter of the void, my favourite champion
+![Image of Kai'Sa](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg)
